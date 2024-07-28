@@ -1,6 +1,6 @@
 THIS WEBSITE IS MADE USING HTML ONLY.
 THIS IS MADE USING BASIC CONCEPTS OF HTML SO THAT ANY BEGINNER COULD UNDERSTAND THE CODE.
-...........................................................................................
+
 
 HOME
 
